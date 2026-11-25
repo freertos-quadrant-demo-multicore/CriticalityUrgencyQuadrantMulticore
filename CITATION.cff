@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the associated paper."
+title: "FreeRTOS Multi-Core Criticality-Urgency Quadrant Model Demo"
+authors:
+  - family-names: "Shaik"
+    given-names: "Azad Mohammed"
+    email: "azad.mohammed@gmail.com"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Multi-Core Extension of the Criticality-Urgency Quadrant Model for Automotive Real-Time Systems"
+  authors:
+    - family-names: "Shaik"
+      given-names: "Azad Mohammed"
+  collection-title: "Proceedings of the IEEE International Conference on Power, Control and Computing Technologies (IC2PCT 2026)"
+  year: 2026
